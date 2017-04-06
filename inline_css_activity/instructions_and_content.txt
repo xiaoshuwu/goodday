@@ -1,0 +1,31 @@
+Use the following text and your own knowledge of HTML and CSS to create an HTML page in emptyhtml.html that looks like the screenshot in this folder. 
+- - - - 
+
+
+Plain Language Act
+The Plain Language Act of 2010 requires all Federal agencies to communicate clearly so that the public can understand and use the information. The latest update in 2014 expands upon this promise and establishes further guidelines and requirements for communicating government information.
+
+Our promise to you: writing you can understand
+We at NASA are committed to writing all of our new documents in plain language that you can understand. Our goal is to use plain language in any document that:
+
+Is necessary for obtaining any of our benefits or services
+Provides information about any of our benefits or services
+Explains how to comply with a requirement that we administer or enforce
+
+Why we make this promise
+While we've been believers in plain language for a long time, the Plain Writing Act of 2010 requires all Federal agencies to write "clear government communication that the public can understand and use." The Administration also emphasized the importance of "transparency, public participation, and collaboration" in the January 21, 2009, Memorandum on Transparency and Open Government. Beginning in April 2012, we will post our annual progress report on this page.
+
+You can find valuable information and links to Web sites that provide more information on efforts to improve communications at the following locations:
+
+Federal Plain Language Web Site
+Federal Plain Language Guidelines
+NASA's initial compliance report as required by the Plain Writing Act of 2010
+Plain Language Act Compliance December 2012 Update
+NASA 2013 Compliance Report
+NASA Plain Language Implementation Plan
+NASA 2014 Compliance Report
+NASA 2015 Compliance Report
+Let us know how we're doing
+We need your help to comply with this Act!  You can help us to meet our plain language goals by letting us know when we fall short. Let us know if you have trouble understanding our documents or the pages on our Web site and send an email to:  nasaexecsec@nasa.gov as we welcome your feedback!   
+
+Text taken from https://www.nasa.gov/open/plainlanguage.html
